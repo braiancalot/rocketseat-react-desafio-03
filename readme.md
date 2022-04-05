@@ -19,18 +19,21 @@
 
 ## :speech_balloon: Sobre o desafio
 
-*__* é uma aplicação. 
+RocketShoes é uma aplicação que simula o funcionamento de um carrinho de compras. 
 
 <p align="center">
-  <img width="auto" src=""/>
+  <img width="auto" src="https://user-images.githubusercontent.com/41172933/161864160-a74dcd5c-175c-4c39-a168-f2aa48587a93.gif"/>
 </p>
 
 </br>
 
-:dart: Para treinar um pouco mais a __ no React, foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
-- __
-- __
-- __
+:dart: Foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
+- Adicionar um novo produto ao carrinho;
+- Remover um produto do carrinho;
+- Alterar a quantidade de um produto no carrinho;
+- Cálculo dos preços sub-total e total do carrinho;
+- Validação de estoque;
+- Exibição de mensagens de erro;
 
 ## :rocket: Como executar 
 
@@ -46,14 +49,14 @@ git clone https://github.com/braiancalot/rocketseat-react-desafio-03
 
 - Navegue até o diretório principal do projeto
 ```
-cd rocketseat-react-desafio-02
+cd rocketseat-react-desafio-03
 ```
 
 </br>
 
 - Instale as dependências com o Yarn
 ```
-yarn install
+yarn
 ```
 
 </br>
@@ -67,22 +70,19 @@ yarn server
 
 - Execute o projeto
 ```
-yarn dev
+yarn start
 ```
 
 </br>
 
-- Acesse http://localhost:8080/ no seu navegador
+- Irá abrir uma nova página no seu navegador com o projeto. (http://localhost:3000)
 
 ## :computer: Tecnologias
 
 - [React](https://pt-br.reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
-- [SASS](https://sass-lang.com)
 
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-# 🚧 README EM CONSTRUÇÂO 🚧
