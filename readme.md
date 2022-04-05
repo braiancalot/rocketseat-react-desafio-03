@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made by-BraianCalot-blue"/>
   &nbsp;
-  <img src="https://img.shields.io/github/license/braiancalot/rocketseat-react-desafio-03"/>
+  <img src="https://img.shields.io/github/license/braiancalot/rocketseat-react-desafio-02"/>
 </p>
 
 ## :speech_balloon: Sobre o desafio
