@@ -19,7 +19,7 @@
 
 ## :speech_balloon: Sobre o desafio
 
-RocketShoes é uma aplicação que simula o funcionamento de um carrinho de compras. 
+*RocketShoes* é uma aplicação que simula o funcionamento de um carrinho de compras. 
 
 <p align="center">
   <img width="auto" src="https://user-images.githubusercontent.com/41172933/161864160-a74dcd5c-175c-4c39-a168-f2aa48587a93.gif"/>
